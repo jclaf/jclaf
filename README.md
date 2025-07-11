@@ -1,3 +1,10 @@
+Hey there! 👋
+
+I'm Jean-Christophe, your friendly neighborhood Data Scientist on the hunt for an entry-level adventure! 🚀
+
+Armed with a passion for Big Data, a dash of Python magic, and a knack for turning complex problems into creative solutions, I'm ready to dive into new challenges. Whether it’s wrangling data, building real-time platforms, or experimenting with machine learning, I’m all in!
+
+
 # 💫 About Me:
 🛠️ I’m currently working on: Designing high-performance data solutions and real-time monitoring platforms, with a focus on anomaly detection and predictive analytics using Python, Spark, and Docker.<br>💬 Ask me about: Big Data architectures, anomaly detection, recommendation systems, Python/Spark development, and deploying scalable solutions in the cloud.<br>⚡ Fun fact: I’m passionate about creative baking, love sci-fi cinema, and practice capoeira and salsa in my free time!
 
