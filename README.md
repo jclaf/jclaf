@@ -42,16 +42,16 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jclaf&count_private=true&show_icons=true&theme=buefy&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/jclaf">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jclaf&show_icons=true&theme=buefy&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=jclaf&theme=buefy&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <a href="https://github.com/jclaf">
+          <img align="center" src="https://streak-stats.demolab.com?user=jclaf&theme=buefy" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -60,21 +60,32 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jclaf&repo=boilerplate-project-stockchecker&theme=buefy&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="boilerplate-project-stockchecker" />
+        <a href="https://github.com/jclaf/boilerplate-project-stockchecker">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jclaf&repo=boilerplate-project-stockchecker&theme=buefy&show_owner=true" alt="boilerplate-project-stockchecker" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jclaf&limit=2&theme=buefy&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/jclaf">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jclaf&limit=2&theme=buefy&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>TOP LANGUAGES</strong></h3>
+      <p align="center">
+        <a href="https://github.com/jclaf">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaf&hide=php,makefile,shell&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languagues" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=jclaf&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
