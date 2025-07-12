@@ -5,8 +5,9 @@ I'm Jean-Christophe, your friendly neighborhood Data Scientist on the hunt for a
 Armed with a passion for Big Data, a dash of Python magic, and a knack for turning complex problems into creative solutions, I'm ready to dive into new challenges. Whether it’s wrangling data, building real-time platforms, or experimenting with machine learning, I’m all in!
 
 # 💫 About Me:
-🛠️ I’m currently working on: Designing high-performance data solutions and real-time monitoring platforms, with a focus on anomaly detection and predictive analytics using Python, Spark, and Docker.<br>💬 Ask me about: Big Data architectures, anomaly detection, recommendation systems, Python/Spark development, and deploying scalable solutions in the cloud.<br>⚡ Fun fact: I’m passionate about creative baking, love sci-fi cinema, and practice capoeira and salsa in my free time!
-
+🛠️ I’m currently working on: Designing high-performance data solutions and real-time monitoring platforms, with a focus on anomaly detection and predictive analytics using Python.<br>
+💬 Ask me about: Big Data architectures, anomaly detection, recommendation systems, Python/Spark development, and deploying scalable solutions in the cloud.<br>
+⚡ Fun fact: I’m passionate about creative baking, love sci-fi cinema, and practice capoeira and salsa in my free time!<br>
 🌍 Languages: English (B2), Spanish (A2), French (native)
 
 ## 🌐 Socials:
@@ -34,14 +35,53 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
 
 
 # 📊 GitHub Stats:
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jclaf&count_private=true&show_icons=true&theme=buefy&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=jclaf&theme=buefy&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jclaf&repo=boilerplate-project-stockchecker&theme=buefy&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="boilerplate-project-stockchecker" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jclaf&limit=2&theme=buefy&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=jclaf&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jclaf&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jclaf&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jclaf&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jclaf&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
