@@ -40,7 +40,7 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Github Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/jclaf">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=jclaf&show_icons=true&theme=buefy&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -48,7 +48,7 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/jclaf">
           <img align="center" src="https://streak-stats.demolab.com?user=jclaf&theme=buefy" alt="Streak Stats" />
@@ -58,7 +58,7 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
         <a href="https://github.com/jclaf/boilerplate-project-stockchecker">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jclaf&repo=boilerplate-project-stockchecker&theme=buefy&show_owner=true" alt="boilerplate-project-stockchecker" />
@@ -66,7 +66,7 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/jclaf">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jclaf&limit=2&theme=buefy&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
@@ -76,7 +76,7 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>TOP LANGUAGES</strong></h3>
+      <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/jclaf">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaf&hide=php,makefile,shell&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languagues" />
