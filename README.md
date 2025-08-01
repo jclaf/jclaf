@@ -79,7 +79,7 @@ Armed with a passion for Big Data, a dash of Python magic, and a knack for turni
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/jclaf">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaf&hide=php,makefile,shell&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languagues" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaf&hide=php,css,html,makefile,shell&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languagues" />
         </a>
       </p>
     </td>
